@@ -23,7 +23,7 @@ This is my personal GitHub and through it I contribute to 2 main orgs ([skc](htt
 
 #### Languages, Frameworks, etc
 
-Yes I use all these languages, Frameworks, etc in my repos/orgs 🫠. I don't like adding what I use in my current role because this is my personal GH account where I like to have fun 😛. 
+Yes I use all these languages, Frameworks, etc in my repos/orgs 🫠. I don't like adding what I use in my current profesional role because this is my personal GH account where I like to have fun 😛. 
 
 > FYI my favorite language is Python but Go is quickly winning me over. Once I started using TypeScript, I started hating JavaScript.
 
