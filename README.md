@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yooo My Name Is Javi
 
 <!--
 **rtomyj/rtomyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is my personal GitHub and through it I contribute to 2 main orgs ([skc](https://github.com/ygo-skc), [project-next](https://github.com/project-next)) of which I own both.
+
+#### Stats!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rtomyj&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtomyj)](https://github.com/rtomyj/github-readme-stats)
