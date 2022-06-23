@@ -1,20 +1,5 @@
 ### Yooo My Name Is Javi
 
-<!--
-**rtomyj/rtomyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 This is my personal GitHub and through it I contribute to 2 main orgs ([skc](https://github.com/ygo-skc), [project-next](https://github.com/project-next)) of which I own both.
 
 #### Stats!
@@ -23,7 +8,7 @@ This is my personal GitHub and through it I contribute to 2 main orgs ([skc](htt
 
 #### Languages, Frameworks, etc
 
-Yes I use all these languages, Frameworks, etc in my repos/orgs 🫠. I don't like adding what I use in my current profesional role because this is my personal GH account where I like to have fun 😛. 
+Yes I use all these languages, Frameworks, etc in my repos/orgs 🫠. I don't like adding what I use in my current professional role because this is my personal GH account where I like to have fun 😛. 
 
 ##### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,7 +19,7 @@ Yes I use all these languages, Frameworks, etc in my repos/orgs 🫠. I don't li
 
 > FYI my favorite language is Python but Go is quickly winning me over. Once I started using TypeScript, I started hating JavaScript.
 
-> Python is primarily used to write scripts. Previously, I used Python to anaylize genomic data. Now I use it primarily for [web scraping and automation](https://github.com/ygo-skc/skc-scraper).
+> Python is primarily used to write scripts. Previously, I used Python to analyze genomic data. Now I use it primarily for [web scraping and automation](https://github.com/ygo-skc/skc-scraper).
 
 > I'm phazing out Java in favor of Kotlin in my projects.
 
@@ -66,4 +51,4 @@ Yes I use all these languages, Frameworks, etc in my repos/orgs 🫠. I don't li
 
 > Started using MySQL in my projects then got bored of it and shifted to MongoDB starting with [heart-api](https://github.com/project-next/heart-api)
 
-> Started using Postgres when I migrated a DB to AWS used by [podcast-api](https://github.com/project-next/podcast-api) project. Though I need more experience with tougher quries.
+> Started using Postgres when I migrated a DB to AWS used by [podcast-api](https://github.com/project-next/podcast-api) project. Though I need more experience with tougher queries.
